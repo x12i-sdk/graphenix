@@ -1,0 +1,22 @@
+{
+  "name": "graphenix-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/graphenix: compile and validate a reference graph through the umbrella api.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/graphenix": "2.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/graphenix.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/graphenix"
+}

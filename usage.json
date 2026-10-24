@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Compile and validate a reference graph through the umbrella API",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:57:50.212660+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "71ebc4d1604cd00ba75776c44bfae2ac44c6cd1493b392c1ec657f765ac97797",
+    "manifestSha256": "c8cf8c0033923f2c33541d0f10e5ef90a632664d2d1e068082d91b0b1e9ff1f3"
+  }
+}
